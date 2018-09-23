@@ -7,5 +7,5 @@ if ('serviceWorker' in navigator) {
 		.catch(function() {
 			console.log('PePe hands in the chat');
 		});
-	};
+	});
 };
